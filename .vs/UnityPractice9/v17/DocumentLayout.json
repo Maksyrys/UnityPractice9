@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProjects\\UnityPractice9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC313E3C-844F-4AD0-68FB-836423717CDE}|Assembly-CSharp.csproj|d:\\unityprojects\\unitypractice9\\assets\\scripts\\gravityscphere\\explosive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC313E3C-844F-4AD0-68FB-836423717CDE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gravityscphere\\explosive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC313E3C-844F-4AD0-68FB-836423717CDE}|Assembly-CSharp.csproj|d:\\unityprojects\\unitypractice9\\assets\\scripts\\gravityscphere\\gravitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC313E3C-844F-4AD0-68FB-836423717CDE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gravityscphere\\gravitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC313E3C-844F-4AD0-68FB-836423717CDE}|Assembly-CSharp.csproj|d:\\unityprojects\\unitypractice9\\assets\\scripts\\billiard\\billiardssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC313E3C-844F-4AD0-68FB-836423717CDE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\billiard\\billiardssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Explosive.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\UnityPractice9\\Assets\\Scripts\\GravityScphere\\Explosive.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GravityScphere\\Explosive.cs",
+              "ToolTip": "D:\\UnityProjects\\UnityPractice9\\Assets\\Scripts\\GravityScphere\\Explosive.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GravityScphere\\Explosive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:28:34.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GravityController.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\UnityPractice9\\Assets\\Scripts\\GravityScphere\\GravityController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GravityScphere\\GravityController.cs",
+              "ToolTip": "D:\\UnityProjects\\UnityPractice9\\Assets\\Scripts\\GravityScphere\\GravityController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GravityScphere\\GravityController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:28:22.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BilliardsSetup.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\UnityPractice9\\Assets\\Scripts\\Billiard\\BilliardsSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Billiard\\BilliardsSetup.cs",
+              "ToolTip": "D:\\UnityProjects\\UnityPractice9\\Assets\\Scripts\\Billiard\\BilliardsSetup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Billiard\\BilliardsSetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:27:19.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
